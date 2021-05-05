@@ -2,13 +2,15 @@
   Hello there, I'm Abolfazl Mohajeri 👋
 </h2>
 
-<h3 align="center">
+<h4 align="center">
   I’ve been working in computer science field for several years and during my job experience, I acquired practical skills with interesting technologies, tasks and people.
-</h3>
+</h4>
 
-<h3 align="center">
+<h4 align="center">
   Please Visit My Website to Get More Information About My Work and Skills.
-</h3>
+</h4>
+
+![Abolfazl's Github Stats](https://github-readme-stats.vercel.app/api?username=abmohajeri&count_private=true&show_icons=true&include_all_commits=true)
 
 ![PHP](https://img.shields.io/badge/-Php-black?logo=php&style=social)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?logo=laravel&style=social)
@@ -21,8 +23,3 @@
 ![CSS](https://img.shields.io/badge/-CSS-black?logo=css3&style=social)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)
-
-<div align="center">
-![Abolfazl's Github Stats](https://github-readme-stats.vercel.app/api?username=abmohajeri&count_private=true&show_icons=true&include_all_commits=true)
-</div>
-
