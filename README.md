@@ -1,10 +1,13 @@
-### Hi there 👋
+<h3 align="center">
+  Hello there, I'm Abolfazl Mohajeri 👋
+</h3>
 
 - 📫 How to reach me: [My WebSite](https://abolfazlmohajeri.ir/en)
 
 **Skills:** 
 
 ![Skills](https://github.com/abmohajeri/abmohajeri/blob/main/skills.png?raw=true)
+
 ![PHP](https://img.shields.io/badge/-Php-black?logo=php&style=social)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?logo=laravel&style=social)
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)
