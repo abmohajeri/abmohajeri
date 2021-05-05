@@ -10,10 +10,6 @@
   Please Visit My Website to Get More Information About My Work and Skills.
 </h5>
 
-**Skills:** 
-
-![Skills](https://github.com/abmohajeri/abmohajeri/blob/main/skills.png?raw=true)
-
 ![PHP](https://img.shields.io/badge/-Php-black?logo=php&style=social)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?logo=laravel&style=social)
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)
