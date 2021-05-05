@@ -12,7 +12,7 @@
 
 ![Abolfazl's Github Stats](https://github-readme-stats.vercel.app/api?username=abmohajeri&count_private=true&show_icons=true&include_all_commits=true)
 
-![PHP](https://img.shields.io/badge/-Php-black?logo=php&style=social)
+![PHP](https://img.shields.io/badge/-PHP-black?logo=php&style=social)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?logo=laravel&style=social)
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)
 ![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)
