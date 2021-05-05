@@ -2,7 +2,13 @@
   Hello there, I'm Abolfazl Mohajeri 👋
 </h3>
 
-- 📫 How to reach me: [My WebSite](https://abolfazlmohajeri.ir/en)
+<h5 align="center">
+  I’ve been working in computer science field for several years and during my job experience, I acquired practical skills with interesting technologies, tasks and people.
+</h5>
+
+<h5 align="center">
+  Please Visit My Website to Get More Information About My Work and Skills.
+</h5>
 
 **Skills:** 
 
