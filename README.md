@@ -18,7 +18,6 @@
 ![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)
 ![C](https://img.shields.io/badge/-C-black?logo=c&style=social)
-![Android](https://img.shields.io/badge/-Android-black?logo=android&style=social)
 ![HTML](https://img.shields.io/badge/-HTML-black?logo=html5&style=social)
 ![CSS](https://img.shields.io/badge/-CSS-black?logo=css3&style=social)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)
