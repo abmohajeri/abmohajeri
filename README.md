@@ -23,6 +23,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)
 
 <div align="center">
-  ![Abolfazl's Github Stats](https://github-readme-stats.vercel.app/api?username=abmohajeri&count_private=true&show_icons=true&include_all_commits=true)
+![Abolfazl's Github Stats](https://github-readme-stats.vercel.app/api?username=abmohajeri&count_private=true&show_icons=true&include_all_commits=true)
 </div>
 
