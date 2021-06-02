@@ -11,6 +11,7 @@
 </h4>
 
 ![Abolfazl's Github Stats](https://github-readme-stats.vercel.app/api?username=abmohajeri&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abmohajeri&layout=compact)
 
 ![PHP](https://img.shields.io/badge/-PHP-black?logo=php&style=social)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?logo=laravel&style=social)
