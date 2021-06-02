@@ -10,8 +10,8 @@
   Please Visit <a href="https://abolfazlmohajeri.ir" target="_blank"> My Website </a> to Get More Information About My Work and Skills.
 </h4>
 
-![Abolfazl's Github Stats](https://github-readme-stats.vercel.app/api?username=abmohajeri&count_private=true&show_icons=true&include_all_commits=true&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abmohajeri&layout=compact)
+<img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abmohajeri&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abmohajeri&layout=compact&langs_count=8&theme=dracula"/>
 
 ![PHP](https://img.shields.io/badge/-PHP-black?logo=php&style=social)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?logo=laravel&style=social)
