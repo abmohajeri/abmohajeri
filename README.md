@@ -10,10 +10,16 @@
 
 <hr />
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abmohajeri&theme=apprentice" height="200" alt="Profile Details" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abmohajeri&layout=compact&theme=apprentice&hide_border=true&langs_count=10" height="200" alt="Top Languages" />
-</div>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td style="width: 66%; padding-right: 20px;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abmohajeri&theme=apprentice" height="200" alt="Profile Details" />
+    </td>
+    <td style="width: 33%; padding-left: 20px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abmohajeri&layout=compact&theme=apprentice&hide_border=true&langs_count=10" height="200" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abmohajeri&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=20&margin-h=15" alt="Profile Trophies" />
