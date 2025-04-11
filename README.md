@@ -11,8 +11,8 @@
 <hr />
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abmohajeri&theme=apprentice" height="200" alt="Profile Details" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abmohajeri&layout=compact&theme=apprentice&hide_border=true&langs_count=10" height="200" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abmohajeri&theme=apprentice" width="70%" alt="Profile Details" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abmohajeri&layout=compact&theme=apprentice&hide_border=true&langs_count=10" width="28%" alt="Top Languages" />
 </div>
 
 <div align="center">
