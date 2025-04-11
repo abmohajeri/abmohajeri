@@ -8,12 +8,12 @@
   🔗 <a href="https://abolfazlmohajeri.ir" target="_blank"><strong>Visit My Website</strong></a> • 📫 <a href="mailto:abmohajeri1@gmail.com">Email Me</a>
 </p>
 
----
+<hr />
 
-<p align="center">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abmohajeri&theme=apprentice" height="200" alt="Profile Details" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abmohajeri&layout=compact&theme=apprentice&hide_border=true&langs_count=10" height="200" alt="Top Languages" />
-</p>
+</div>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abmohajeri&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=20&margin-h=15" alt="Profile Trophies" />
