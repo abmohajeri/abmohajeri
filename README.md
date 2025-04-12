@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Abolfazl Mohajeri</h1>
 
 <p align="left">
-  I’ve been working in computer science field for several years and during my job experience, I acquired practical skills with interesting technologies, tasks and people.
+  I have been working in the field of software engineering for several years, and throughout my career, I have gained valuable hands-on experience with exciting technologies, challenging tasks, and collaborating with talented individuals.
 </p>
 
 <p align="center">
